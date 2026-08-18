@@ -105790,10 +105790,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logbak.hicloud.com
-0.0.0.0 adblock.turtlecute.org##.adbox.banner_ads.adsbox
-0.0.0.0 adblock.turtlecute.org##.textads
-0.0.0.0 /pagead.js$domain=adblock.turtlecute.org
-0.0.0.0 /widget/ads.
+0.0.0.0 adblock.turtlecute.org
+0.0.0.0 adblock.turtlecute.org
+0.0.0.0 adblock.turtlecute.org
 
 # End yoyo.org
 
